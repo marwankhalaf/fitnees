@@ -10,6 +10,8 @@
   transition: all 0.2s linear;
 }
 
+/* styles */
+
 html {
   overflow-x: hidden;
   font-size: 62.5%;
